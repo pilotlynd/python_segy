@@ -82,10 +82,4 @@ code：x0nq)
 	python main_test_inter.py --data_dir data/test --rate 2
 ![](https://wx4.sinaimg.cn/mw1024/006ceorLly1g31rqtq162j316w0c7aqa.jpg)
 
-
-## Future work
-- For more tasks: salt body classification、wave equation inversion and test for field data
-- Parallel computing
-- Support for matconvnet
-
 	
